@@ -14,6 +14,7 @@ public:
         cout<<"B.y= "<<y<<endl;
         cout<<"B.z= "<<z<<endl<<endl;
 	cout<<"Annaya"<<endl;
+		cout<<"Mounika"<<endl;
     }
 };
 class D1:virtual public B
