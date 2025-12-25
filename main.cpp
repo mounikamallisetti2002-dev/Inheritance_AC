@@ -13,6 +13,7 @@ public:
         cout<<"B.x= "<<x<<endl;
         cout<<"B.y= "<<y<<endl;
         cout<<"B.z= "<<z<<endl<<endl;
+		cout<<"Mounika"<<endl;
     }
 };
 class D1:virtual public B
